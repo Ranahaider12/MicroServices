@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\Gateway\\Gateway.csproj": {}
+    "D:\\MicroServices\\MicroServicesProject\\Gateway\\Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\Gateway\\Gateway.csproj": {
+    "D:\\MicroServices\\MicroServicesProject\\Gateway\\Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "D:\\MicroServices\\MicroServicesProject\\Gateway\\Gateway.csproj",
         "projectName": "Gateway",
-        "projectPath": "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\Gateway\\Gateway.csproj",
+        "projectPath": "D:\\MicroServices\\MicroServicesProject\\Gateway\\Gateway.csproj",
         "packagesPath": "C:\\Users\\ranahaider.ali1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\Gateway\\obj\\",
+        "outputPath": "D:\\MicroServices\\MicroServicesProject\\Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ranahaider.ali1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Ocelot": {
-              "target": "Package",
-              "version": "[16.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

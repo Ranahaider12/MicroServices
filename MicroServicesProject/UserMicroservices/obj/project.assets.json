@@ -8555,11 +8555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\UserMicroservices\\UserMicroservices.csproj",
+      "projectUniqueName": "D:\\MicroServices\\MicroServicesProject\\UserMicroservices\\UserMicroservices.csproj",
       "projectName": "UserMicroservices",
-      "projectPath": "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\UserMicroservices\\UserMicroservices.csproj",
+      "projectPath": "D:\\MicroServices\\MicroServicesProject\\UserMicroservices\\UserMicroservices.csproj",
       "packagesPath": "C:\\Users\\ranahaider.ali1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ranahaider.ali1\\source\\repos\\MicroServicesProject\\UserMicroservices\\obj\\",
+      "outputPath": "D:\\MicroServices\\MicroServicesProject\\UserMicroservices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ranahaider.ali1\\AppData\\Roaming\\NuGet\\NuGet.Config",

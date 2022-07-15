@@ -30,3 +30,10 @@ C:\Users\ranahaider.ali1\source\repos\MicroServicesProject\Gateway\obj\Release\n
 C:\Users\ranahaider.ali1\source\repos\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.dll
 C:\Users\ranahaider.ali1\source\repos\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.pdb
 C:\Users\ranahaider.ali1\source\repos\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.genruntimeconfig.cache
+D:\MicroServices\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.csproj.AssemblyReference.cache
+D:\MicroServices\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.AssemblyInfoInputs.cache
+D:\MicroServices\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.AssemblyInfo.cs
+D:\MicroServices\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.csproj.CoreCompileInputs.cache
+D:\MicroServices\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\MicroServices\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.dll
+D:\MicroServices\MicroServicesProject\Gateway\obj\Release\netcoreapp3.1\Gateway.pdb
